@@ -12,21 +12,21 @@ In this repository, you will find various subrepos that I have created during my
 
 Here are the subrepos included in this repository:
 
-- [alx-low_level_programming](github.com/amineNouabi/alx-low_level_programming): This subrepo contains projects and exercises related to low-level programming in C.
+- [alx-low_level_programming](https://github.com/amineNouabi/alx-low_level_programming): This subrepo contains projects and exercises related to low-level programming in C.
 
-- [alx-higher_level_programming](github.com/amineNouabi/alx-higher_level_programming): This subrepo contains projects and exercises related to higher-level programming in Python.
+- [alx-higher_level_programming](https://github.com/amineNouabi/alx-higher_level_programming): This subrepo contains projects and exercises related to higher-level programming in Python.
 
-- [alx-system_engineering_devops](github.com/amineNouabi/alx-system_engineering_devops): This subrepo contains projects and exercises related to system engineering and DevOps.
+- [alx-system_engineering_devops](https://github.com/amineNouabi/alx-system_engineering_devops): This subrepo contains projects and exercises related to system engineering and DevOps.
 
-- [sorting_algorithms](github.com/amineNouabi/sorting_algorithms): This subrepo contains projects and exercises related to sorting algorithms in C.
+- [sorting_algorithms](https://github.com/amineNouabi/sorting_algorithms): This subrepo contains projects and exercises related to sorting algorithms in C.
 
-- [simple_shell](github.com/amineNouabi/simple_shell): This subrepo contains a simple UNIX command interpreter, built using C.
+- [simple_shell](https://github.com/amineNouabi/simple_shell): This subrepo contains a simple UNIX command interpreter, built using C.
 
-- [printf](github.com/amineNouabi/printf): This subrepo contains a custom implementation of the printf function in C.
+- [printf](https://github.com/amineNouabi/printf): This subrepo contains a custom implementation of the printf function in C.
 
-- [alx-zero_day](github.com/amineNouabi/alx-zero_day): This subrepo contains projects and exercises related to the "zero day" curriculum at ALX.
+- [alx-zero_day](https://github.com/amineNouabi/alx-zero_day): This subrepo contains projects and exercises related to the "zero day" curriculum at ALX.
 
-- [zero_day](github.com/amineNouabi/zero_day): This subrepo contains projects and exercises related to the "zero day" curriculum at ALX.
+- [zero_day](https://github.com/amineNouabi/zero_day): This subrepo contains projects and exercises related to the "zero day" curriculum at ALX.
 
 
 Feel free to explore each subrepo to learn more about the projects and topics covered.
