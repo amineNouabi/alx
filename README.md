@@ -1,10 +1,10 @@
 # ALX Learning Software Engineering
 
-Welcome to my personal repository for ALX Learning Software Engineering! This repository serves as a collection of my personal subrepos related to ALX's software engineering curriculum.
+Welcome to my repository for ALX Learning Software Engineering! This repository serves as a collection of my personal subrepos related to ALX's software engineering curriculum.
 
 This repo serves to group all my subrepos in one place, making it easier for me to manage and organize my projects and exercises. Each subrepo is dedicated to a specific topic or project, providing a comprehensive overview of my learning progress.
 
-## Introduction
+## Content
 
 In this repository, you will find various subrepos that I have created during my journey as a software engineering student at ALX. Each subrepo focuses on a specific topic or project, providing a comprehensive overview of my learning progress.
 
@@ -19,8 +19,6 @@ Here are the subrepos included in this repository:
 - [alx-system_engineering_devops](github.com/amineNouabi/alx-system_engineering_devops): This subrepo contains projects and exercises related to system engineering and DevOps.
 
 - [sorting_algorithms](github.com/amineNouabi/sorting_algorithms): This subrepo contains projects and exercises related to sorting algorithms in C.
-
-- [AirBnB_clone](github.com/amineNouabi/AirBnB_clone): This subrepo contains a clone of the AirBnB website, built using Python and MySQL.
 
 - [simple_shell](github.com/amineNouabi/simple_shell): This subrepo contains a simple UNIX command interpreter, built using C.
 
