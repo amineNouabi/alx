@@ -60,5 +60,7 @@ Here are the subrepos included in this repository:
 
 - [zero_day](https://github.com/amineNouabi/zero_day): This subrepo contains projects and exercises related to the "zero day" curriculum at ALX.
 
+- [Fix_My_Code_Challenge](https://github.com/amineNouabi/Fix_My_Code_Challenge): This subrepo contains projects and exercises related to fixing code challenges in C.
+
 
 Feel free to explore each subrepo to learn more about the projects and topics covered.
