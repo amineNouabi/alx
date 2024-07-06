@@ -1,4 +1,5 @@
-# ALX Learning Software Engineering
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+>  ALX Learning Software Engineering
 
 Welcome to my repository for ALX Learning Software Engineering! This repository serves as a collection of my personal subrepos related to ALX's software engineering curriculum.
 
@@ -8,9 +9,40 @@ This repo serves to group all my subrepos in one place, making it easier for me 
 
 In this repository, you will find various subrepos that I have created during my journey as a software engineering student at ALX. Each subrepo focuses on a specific topic or project, providing a comprehensive overview of my learning progress.
 
+## Requirements
+
+To run the projects and exercises in this repository, you will need to have the following installed on your system:
+
+- npm (Node.js)
+- meta (npm package)
+
+You can install these dependencies using the following commands:
+
+```bash
+# Install Node.js (npm)
+sudo apt-get install nodejs
+
+# Install meta (npm package)
+npm install -g meta
+```
+
+## Usage
+
+To clone this repository and access the subrepos, you can use the following commands:
+
+```bash
+# Clone the repository
+meta git clone https://github.com/amineNouabi/alx
+```
+
+
 ## Subrepos
 
 Here are the subrepos included in this repository:
+
+- [AirBnB_clone](https://github.com/amineNouabi/AirBnB_clone): This subrepo contains console and web application projects related to the AirBnB clone.
+
+- [AirBnB_clone_v2](https://github.com/amineNouabi/AirBnB_clone_v2): This subrepo contains console and web application projects related to the AirBnB clone (version 2).
 
 - [alx-low_level_programming](https://github.com/amineNouabi/alx-low_level_programming): This subrepo contains projects and exercises related to low-level programming in C.
 
