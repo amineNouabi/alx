@@ -2,6 +2,8 @@
 	"projects": {
 		"AirBnB_clone": "git@github.com:amineNouabi/AirBnB_clone.git",
 		"AirBnB_clone_v2": "git@github.com:amineNouabi/AirBnB_clone_v2.git",
+		"AirBnB_clone_v3": "git@github.com:gichobih/AirBnB_clone_v3.git",
+		"AirBnB_clone_v4": "git@github.com:amineNouabi/AirBnB_clone_v4.git",
 		"alx-higher_level_programming": "git@github.com:amineNouabi/alx-higher_level_programming.git",
 		"alx-low_level_programming": "git@github.com:amineNouabi/alx-low_level_programming.git",
 		"alx-system_engineering-devops": "git@github.com:amineNouabi/alx-system_engineering-devops.git",
@@ -11,6 +13,7 @@
 		"printf": "git@github.com:amineNouabi/printf.git",
 		"simple_shell": "git@github.com:amineNouabi/simple_shell.git",
 		"sorting_algorithms": "git@github.com:amineNouabi/sorting_algorithms.git",
-		"zero_day": "git@github.com:amineNouabi/zero_day.git"
+		"zero_day": "git@github.com:amineNouabi/zero_day.git",
+		"alx-backend-javascript": "git@github.com:amineNouabi/alx-backend-javascript.git",
 	}
 }
