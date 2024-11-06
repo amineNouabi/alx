@@ -17,6 +17,8 @@
 		"alx-backend-javascript": "git@github.com:amineNouabi/alx-backend-javascript.git",
 		"alx-backend-python": "git@github.com:amineNouabi/alx-backend-python.git",
 		"alx-interview": "git@github.com:amineNouabi/alx-interview.git",
-		"alx-backend-storage": "git@github.com:amineNouabi/alx-backend-storage.git"
+		"alx-backend-storage": "git@github.com:amineNouabi/alx-backend-storage.git",
+		"alx-backend": "git@github.com:amineNouabi/alx-backend.git",
+		"alx-backend-user-data": "git@github.com:amineNouabi/alx-backend-user-data.git"
 	}
 }
