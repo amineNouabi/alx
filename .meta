@@ -19,6 +19,7 @@
 		"alx-interview": "git@github.com:amineNouabi/alx-interview.git",
 		"alx-backend-storage": "git@github.com:amineNouabi/alx-backend-storage.git",
 		"alx-backend": "git@github.com:amineNouabi/alx-backend.git",
-		"alx-backend-user-data": "git@github.com:amineNouabi/alx-backend-user-data.git"
+		"alx-backend-user-data": "git@github.com:amineNouabi/alx-backend-user-data.git",
+    "alx-files_manager": "git@github.com:amineNouabi/alx-files_manager.git"
 	}
 }
